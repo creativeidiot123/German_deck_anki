@@ -1,5 +1,9 @@
 # German_deck_anki
 Custom built from scratch german deck
+
+# Download here
+https://github.com/creativeidiot123/German_deck_anki/releases
+
 # Flashcard Interaction Features
 
 ## Tinder-Style Swiping
