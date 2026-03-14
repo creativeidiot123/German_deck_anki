@@ -91,7 +91,7 @@ You can also merge templates manually:
 2. Search for any fields written like:
 
 
-{{XXXX}}
+   {{XXXX}}
 
 
 3. Replace the field name inside with **your own deck’s field names**.
@@ -114,11 +114,4 @@ Replace with fields from your deck such as:
 
 This keeps the **UI and logic intact** while adapting the template to your own deck.
 
-Tiny tip from someone who’s seen a lot of Anki templates turn into spaghetti:
-document your expected fields somewhere at the top like:
 
-Required Fields:
-- Question
-- Answer
-- Hint (optional)
-- Explanation (optional)
