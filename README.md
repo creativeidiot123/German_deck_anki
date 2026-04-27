@@ -1,6 +1,10 @@
 # German_deck_anki
 Custom built from scratch german deck
 
+
+![High Friction Setup]((https://raw.githubusercontent.com/creativeidiot123/German_deck_anki/refs/heads/main/Screenshot_2026-04-27-15-47-30-96_a9eef3a2a561b80d5c76daebd0f9a14c.jpg))
+
+
 # Download here
 https://github.com/creativeidiot123/German_deck_anki/releases
 
